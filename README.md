@@ -17,7 +17,7 @@
                                                                
   - 🏢 Lead Application Engineer at **Mindshare Solutions**                                                                                                      
   - 🚀 Building **SlotnMeet** — an AI-powered scheduling SaaS  
-  - 💼 Available for freelance on [Fiverr](https://fiverr.com/syyedshoaib)                                                                                       
+  - 💼 Available for freelance on [Upwork](https://www.upwork.com/freelancers/~0186ac230f5cc472d9)                                                                                       
                                                                                                                                                                  
   ### Tech Stack                                                                                                                                                 
                                                                                                                                                                  
