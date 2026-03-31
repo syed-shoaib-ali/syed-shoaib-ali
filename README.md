@@ -7,10 +7,10 @@
                                                                                                                                                                  
   ### What I Do                                                                                                                                                  
    
-  - **Mobile Apps** — React Native, Flutter, Swift, Kotlin                                                                                                       
+  - **Mobile Apps** — React Native, Swift, Kotlin                                                                                                       
   - **Web Apps** — React, Next.js, TypeScript, Tailwind CSS    
   - **Backend** — Node.js, Hono JS, PostgreSQL, Firebase, MongoDB                                                                                                
-  - **Cloud & DevOps** — AWS, GCP, Docker, CI/CD                                                                                                                 
+  - **Cloud & DevOps** — GCP, Docker, CI/CD, EXPO EAS                                                                                                                 
   - **AI Integration** — OpenAI, Anthropic, ElevenLabs                                                                                                           
                                                                                                                                                                  
   ### Currently                                                                                                                                                  
